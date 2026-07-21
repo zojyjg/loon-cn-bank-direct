@@ -1,0 +1,16 @@
+{
+  "upstream": "https://github.com/blackmatrix7/ios_rule_script",
+  "directories": [
+    "ABC",
+    "BOC",
+    "BOCOM",
+    "CCB",
+    "CEB",
+    "CGB",
+    "CMB",
+    "ICBC",
+    "PSBC",
+    "PingAn",
+    "UnionPay"
+  ]
+}
